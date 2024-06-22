@@ -1,4 +1,4 @@
-# GUESSING-GAME
+# Python-Powered Predictive Logic Game
 GUESSING GAME in python
 
 This is a simple guessing game.
